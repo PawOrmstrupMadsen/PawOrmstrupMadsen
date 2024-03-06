@@ -6,7 +6,7 @@
 ![](https://raw.githubusercontent.com/PawOrmstrupMadsen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/PawOrmstrupMadsen/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Stats updates at 12:00
+Stats updates at midnight.
 
 <!--
 **PawOrmstrupMadsen/PawOrmstrupMadsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
